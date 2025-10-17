@@ -1,5 +1,7 @@
 # GitHub Repository Analyzer Agent
 
+@author: David Manzano Macho
+
 An intelligent agent that analyzes GitHub repositories using Claude Sonnet 4 with MCP (Model Context Protocol) to answer questions about contributors, development velocity, code complexity, documentation, and more.
 
 ## Features
